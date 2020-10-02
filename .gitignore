@@ -41,5 +41,5 @@ Thumbs.db
 
 # Gradle files
 .idea/gradle.xml
-build.gradle
-gradle/wrapper/gradle-wrapper.properties
+#build.gradle
+#gradle/wrapper/gradle-wrapper.properties
